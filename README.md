@@ -6,8 +6,8 @@ Two animations of horse (walking and running) were applied.
 * OpenGL 3.2 +
 
 ## Features
-* Horse can walk through keyboard command 'a'
-* Horse can run through keyboard command 'b'
+* Horse can walk through 'a' key
+* Horse can run through 'b' key
 * You can reach menu through middle button of the mouse. In this menu, you can select a bone to rotate.
 
 ## Screenshots
